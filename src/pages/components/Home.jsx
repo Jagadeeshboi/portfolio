@@ -1,12 +1,12 @@
-import Nav from "../Home_pages/nav"
-import Hero from "../Home_pages/Hero";
-import About from "../Home_pages/About";
-import Projects from "../Home_pages/Projects";
-import Services from "../Home_pages/Services";
-import Skills from "../Home_pages/Skills";
-import Contact from "../Home_pages/Contact";
-import Menu from "../Home_pages/Menu";
-import Sidebar from "../Home_pages/Sidebar";
+import Nav from "../Homepages/nav"
+import Hero from "../Homepages/Hero";
+import About from "../Homepages/About";
+import Projects from "../Homepages/Projects";
+import Services from "../Homepages/Services";
+import Skills from "../Homepages/Skills";
+import Contact from "../Homepages/Contact";
+import Menu from "../Homepages/Menu";
+import Sidebar from "../Homepages/Sidebar";
 function Home() {
     return (
         <div>
